@@ -1,9 +1,11 @@
-﻿#Использовать cmdline
-#Использовать logos
-#Использовать tempfiles
-#Использовать asserts
-#Использовать v8runner
-#Использовать strings
+// logos объявлен в одном из модулей. Ждем фикса от разработчиков библиотеки
+//#Использовать "../oscript-library/src/logos"
+#Использовать "../oscript-library/src/tempfiles"
+#Использовать "../oscript-library/src/asserts"
+// asserts объявлен в v8runner
+// #Использовать "../oscript-library/src/asserts"
+#Использовать "../oscript-library/src/v8runner"
+#Использовать "../oscript-library/src/strings"
 
 Перем Лог;
 Перем КодВозврата;
