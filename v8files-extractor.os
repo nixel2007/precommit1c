@@ -5,6 +5,7 @@
 // #Использовать "../oscript-library/src/asserts"
 #Использовать "../oscript-library/src/v8runner"
 #Использовать "../oscript-library/src/strings"
+#Использовать "../oscript-library/src/cmdline"
 
 Перем Лог;
 Перем КодВозврата;
