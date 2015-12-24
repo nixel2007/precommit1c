@@ -1,7 +1,6 @@
-// logos объявлен в одном из модулей. Ждем фикса от разработчиков библиотеки
+﻿// logos объявлен в одном из модулей. Ждем фикса от разработчиков библиотеки
 //#Использовать "../oscript-library/src/logos"
 #Использовать "../oscript-library/src/tempfiles"
-#Использовать "../oscript-library/src/asserts"
 // asserts объявлен в v8runner
 // #Использовать "../oscript-library/src/asserts"
 #Использовать "../oscript-library/src/v8runner"
